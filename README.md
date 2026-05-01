@@ -1,11 +1,16 @@
-# 天涯神贴大神智囊团 · 多Agent决策系统
 
-
-[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/yourusername/tianya-gods-framework)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
 
 <h1 align="center"> 天涯神贴大神智囊团 · 多Agent决策系统-skills </h1>
+
+<p align="center">
+  <a href="https://github.com/momozi1996/tianya-skills">
+    <img src="https://img.shields.io/badge/version-3.0.0-blue.svg" alt="Version">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python">
+</p>
 
 <p align="center">
    🤔 基于ClawTeam多Agent架构，20位天涯传奇大神为你并行决策 <br>
