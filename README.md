@@ -1,21 +1,25 @@
 # 天涯神贴大神智囊团 · 多Agent决策系统
 
-<p align="center">
+
 [![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/yourusername/tianya-gods-framework)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
-</p>
 
 <h1 align="center"> 天涯神贴大神智囊团 · 多Agent决策系统-skills </h1>
 
 <p align="center">
- 「 基于ClawTeam多Agent架构，20位天涯传奇大神为你并行决策<br>
- "一个人思考，是智慧；二十个人思考，是智囊团。" 🤔 <br>
+   🤔 基于ClawTeam多Agent架构，20位天涯传奇大神为你并行决策 <br>
+ <br>
+💡 一个人思考，是智慧；二十个人思考，是智囊团。<br>
+<br>
+  📖 回归中华文化本有的深度、广度与真相 📜..  <br>
+  🚫 不迎合流量，不制造情绪，不随世俗裹挟；<br>
+  ✅ 只存真话、只讲规律、只还原事实；<br>
 </p>
 
 
 <p align="center">
- ❤️ star+fork  ❤️ 支持我们~ （留言+贡献吧🎉）
+ ❤️ star+fork  ❤️ 支持我吧~ （留言+贡献吧🎉）
 </p>
 
 ---
