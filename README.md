@@ -33,6 +33,8 @@
 ## 🎯 项目简介
 
 这是一个基于[ClawTeam](https://github.com/HKUDS/ClawTeam)多Agent协作原理的决策系统，集成了20位天涯社区的传奇大神，通过并行分析和综合决策，为你的问题提供全方位的智慧支持。
+<img width="1448" height="1086" alt="ChatGPT Image 2026年5月6日 22_46_50" src="https://github.com/user-attachments/assets/7ec7e434-bdfc-4632-84c2-b78b25b6c7a4" />
+
 
 ### 为什么选择天涯神贴大神？
 
@@ -133,6 +135,9 @@
 | 慕容雪村 | `gods/murongxuecun.md` | 「慕容雪村视角」 |
 
 *剩余15位大神Skill将在后续版本中补充*
+
+<img width="2752" height="1536" alt="Gemini_Generated_Image_wfedcwwfedcwwfed" src="https://github.com/user-attachments/assets/f835155b-b4dd-40c5-8ea4-1ca0559084c2" />
+
 
 ---
 
